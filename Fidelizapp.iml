@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<module type="JAVA_MODULE" version="4">
+  <component name="NewModuleRootManager" inherit-compiler-output="true">
+    <exclude-output />
+    <content url="file://$MODULE_DIR$">
+      <sourceFolder url="file://$MODULE_DIR$/Fidelizapp/Campana" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/Fidelizapp/Cliente" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/Fidelizapp/Comercio" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/Fidelizapp/Recompesa" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/Fidelizapp/ReglaPuntos" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/Fidelizapp/ServicioFidelizacion" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/Fidelizapp/Usuario" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/src" isTestSource="false" />
+    </content>
+    <orderEntry type="inheritedJdk" />
+    <orderEntry type="sourceFolder" forTests="false" />
+  </component>
+</module>
